@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fikritech</groupId>
-	<artifactId>simple-crud-employee</artifactId>
+	<artifactId>simplecrudemployee</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>simple-crud-employee</name>
+	<name>simplecrudemployee</name>
 	<description>This is simple CRUD Rest API Employee</description>
 	<properties>
 		<java.version>11</java.version>
